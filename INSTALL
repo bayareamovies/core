@@ -1,0 +1,6 @@
+- Install Apache
+- Install PHP 5.4+
+- Install MySQL
+- Install composer
+- Run 'composer update'
+
